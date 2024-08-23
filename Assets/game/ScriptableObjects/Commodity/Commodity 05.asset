@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8473b8d7b347b354f9b92f812fd71fa4, type: 3}
+  m_Name: Commodity 05
+  m_EditorClassIdentifier: 
+  id: 1
+  commodityDesc:
+  - lang: 1
+    title: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 05"
+    category: "\u041A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u044F 01"
+    mark: "\u0422\u0438\u043F 05"
+    description: "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435
+      \u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F 05\u0422\u0438\u043F
+      05\u0422\u0438\u043F 05\u0422\u0438\u043F 05"
+  gameObject_prefab: {fileID: 782594922836184612, guid: 67be0cdcdc9189947939f8270c383315, type: 3}
